@@ -65,7 +65,7 @@ A curated list of notable papers on pixel-space diffusion models for image and v
   [arXiv:2204.06125](https://arxiv.org/abs/2204.06125)  
   Two-stage hierarchical model using CLIP latents for text-to-image, influential for later pixel-space extensions.
   
-- **Cascaded Diffusion Models for High Fidelity Image Generation** (GLIDE)  
+- **Cascaded Diffusion Models for High Fidelity Image Generation**  
   [arXiv:2106.15282](https://arxiv.org/abs/2106.15282)  
   Introduces a pipeline of diffusion models generating images at increasing resolutions, starting from a base low-res model followed by super-resolution stages, enabling high-fidelity class-conditional ImageNet generation without auxiliary classifiers.
 
