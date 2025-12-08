@@ -46,9 +46,6 @@ A curated list of notable papers on pixel-space diffusion models for image and v
   [arXiv:2411.07126](https://arxiv.org/abs/2411.07126)  
   Cascaded models using Laplacian diffusion for photorealistic, pixel-accurate generation.
 
-- **Pixel-Space Post-Training of Latent Diffusion Models**  
-  [arXiv:2409.17565](https://arxiv.org/abs/2409.17565)  
-  Adds pixel-space objectives to improve fine-tuning and preference alignment in latent models.
 
 - **Scalable High-Resolution Pixel-Space Image Synthesis with Hourglass Diffusion Transformers**  
   [arXiv:2401.11605](https://arxiv.org/abs/2401.11605)  
