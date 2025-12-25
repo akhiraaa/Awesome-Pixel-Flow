@@ -9,7 +9,7 @@ A curated list of notable papers on pixel-space diffusion models for image and v
   [arXiv:2511.20645](https://arxiv.org/abs/2511.20645)  
   A fully transformer-based model with dual-level design (patch-level and pixel-level DiTs) for end-to-end pixel-space diffusion, achieving strong FID scores on high-resolution images.
 
-- **There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training**
+- **There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training**  
   [arXiv:2510.12586](https://arxiv.org/abs/2510.12586)
   A two-stage framework with self-supervised pre-training for pixel-space diffusion and consistency models, achieving SOTA FID (1.58 on ImageNet-256, 2.35 on ImageNet-512) without any VAE or external pre-trained models.
   
